@@ -1,0 +1,3 @@
+D:\visual\Pokemon_de_jas\Pokemon_de_jas\Debug\Pokemondejas.MyForm.resources
+D:\visual\Pokemon_de_jas\Pokemon_de_jas\Debug\Pokemon_de_jas.vcxproj.GenerateResource.cache
+D:\visual\Pokemon_de_jas\Pokemon_de_jas\Debug\Pokemon_de_jas.vcxproj.AssemblyReference.cache
